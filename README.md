@@ -77,3 +77,6 @@ Deployment
 
 ## Set up BookWyrm
 The [documentation website](https://docs.joinbookwyrm.com/) has instruction on how to set up BookWyrm in a [developer environment](https://docs.joinbookwyrm.com/install-dev.html) or [production](https://docs.joinbookwyrm.com/install-prod.html).
+
+## Docker
+Add a workflow to push docker
